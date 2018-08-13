@@ -10,7 +10,7 @@ Plugin 'gmarik/Vundle.vim'
 
 " add other plugins to be managed by Vundle
 Plugin 'altercation/vim-colors-solarized'
-
+Plugin 'tpope/vim-commentary'
 
 
 " -------------------------------------------
