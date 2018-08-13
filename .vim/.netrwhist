@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/aspenser/tutorials/ShortCourseAERO-Nov2016/HandsOnSessions/FolderCases1To6/simulations'
-let g:netrw_dirhist_2='/home/aspenser/tutorials/ShortCourseAERO-Nov2016/HandsOnSessions/FolderCases1To6/simulations/Case6/results'
-let g:netrw_dirhist_3='/home/aspenser/row_clustering/mesh'
-let g:netrw_dirhist_4='/home/aspenser/row_clustering/from_tina/pymortestbed'
-let g:netrw_dirhist_5='/home/aspenser/row_clustering/from_tina'
-let g:netrw_dirhist_6='/home/aspenser/row_clustering/from_tina/pymortestbed'
-let g:netrw_dirhist_7='/home/aspenser/row_clustering/from_tina/pymortestbed/optimization'
