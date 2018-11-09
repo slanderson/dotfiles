@@ -48,3 +48,6 @@ set textwidth=90
 set path=.,**
 nnoremap <leader>f :find *
 
+"options for quick-scope
+let g:qs_highlight_on_keys = ['f', 'F', 't', 'T']
+let g:surround_{char2nr('c')} = "\\\1command\1{\r}"
