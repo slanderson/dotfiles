@@ -17,6 +17,7 @@ set backspace=indent,eol,start
 " turn on syntax highlighting
 syntax enable
 set background=light
+let g:solarized_termcolors=256
 colorscheme solarized
 
 " bring up a completion menu when Tab-completion is used
