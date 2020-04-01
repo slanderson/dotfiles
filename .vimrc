@@ -52,3 +52,10 @@ nnoremap <leader>f :find *
 "options for quick-scope
 let g:qs_highlight_on_keys = ['f', 'F', 't', 'T']
 let g:surround_{char2nr('c')} = "\\\1command\1{\r}"
+
+" set syntax folding
+set foldmethod=syntax
+
+" switch quickly between .h and .C files
+nnoremap <leader>c :e %:r.C <CR>
+nnoremap <leader>h :e %:r.h <CR>
