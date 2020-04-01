@@ -13,6 +13,7 @@ Plugin 'altercation/vim-colors-solarized'
 Plugin 'tpope/vim-commentary'
 Plugin 'unblevable/quick-scope'
 Plugin 'tpope/vim-surround'
+Plugin 'tmhedberg/simpylfold'
 
 
 " -------------------------------------------
