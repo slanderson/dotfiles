@@ -6,7 +6,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 " add Vundle as a Vundle-managed plugin
-Plugin 'gmarik/Vundle.vim'
+Plugin 'VundleVim/Vundle.vim'
 
 " add other plugins to be managed by Vundle
 Plugin 'altercation/vim-colors-solarized'
